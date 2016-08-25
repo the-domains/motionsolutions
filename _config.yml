@@ -1,14 +1,26 @@
-layout_spectrum: 0.07251455
-typography_spectrum: 0.1754402
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
   saturation: 0.7625963
+  brandStrength: 1
   lightness: 0.3191221
-  brandStrength: 0.5195341
-  rhythmicContrast: 0.246466
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#090909'
+    - '#FFFFFF'
+    - '#3F413E'
+    - '#636361'
+    - '#96672A'
+  rhythmicContrast: 0.246466
+typography_spectrum: 0.5913978
+layout_spectrum: 1
 name: Motionsolutions
