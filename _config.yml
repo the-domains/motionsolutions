@@ -10,17 +10,17 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.5913978
 color:
-  saturation: 0.7625963
+  saturation: 0.7455197
   brandStrength: 0.8243728
-  lightness: 0.3191221
+  lightness: 0.5734767
   brandColors:
-    - '#0D0721'
     - '#FFFFFF'
-    - '#491E65'
-    - '#C86AFF'
-    - '#FCB2FF'
-  rhythmicContrast: 0.246466
+    - '#762B32'
+    - '#756566'
+    - '#A08C8E'
+    - '#FCCFD2'
+  rhythmicContrast: 0.6200717
+typography_spectrum: 0.3064516
 layout_spectrum: 0.5197133
 name: Motionsolutions
